@@ -26,4 +26,20 @@
 #### Ajuste manual de iluminação 
 #### Integração com sensores IoT 
 #### Controle remoto da estufa
-#### Dashboard de monitoramento 
+#### Dashboard de monitoramento ]
+
+## 🟢 Baixa Prioridade
+
+#### Gráficos de crescimento das plantas
+#### Previsão de irrigação 
+#### Sistema de recomendação de cultivo 
+#### Integração com previsão do tempo 
+#### Sistema de IA para otimização 
+#### Análise de produtividade 
+#### Relatórios automáticos 
+#### Exportação de dados 
+#### Chat entre operadores 
+#### Notificações via aplicativo 
+#### Sistema de manutenção preventiva 
+#### Detecção de falhas nos sensores 
+#### Automação inteligente com aprendizado
