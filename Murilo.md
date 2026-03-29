@@ -83,3 +83,15 @@
 * ### Controle de ventilação:
 
     Gerenciamento automático ou manual dos sistemas de ventilação.
+
+* ### Controle de iluminação:
+
+    Regulação da iluminação conforme necessidade das plantas.
+
+* ### Sistema de login:
+
+    Interface para acesso ao sistema com credenciais de usuário.
+
+* ### Monitoramento de temperatura:
+
+    Acompanhamento contínuo da temperatura ambiente da estufa.
