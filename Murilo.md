@@ -43,3 +43,11 @@
 * ### Controle remoto da estufa:
 
     Acesso remoto para monitorar e controlar funções da estufa via internet.
+
+* ### Ajuste manual de ventilação:
+
+    Controle direto da ventilação para regular temperatura e circulação de ar.
+
+* ### Integração com sensores IoT:
+
+    Conexão com sensores inteligentes para coleta automática de dados ambientais.
