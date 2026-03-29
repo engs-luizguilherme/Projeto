@@ -75,3 +75,11 @@
 * ### Monitoramento de umidade do solo:
 
     Medição constante da umidade presente no solo.
+
+* ### Controle automático de irrigação:
+
+    Sistema que ativa a irrigação automaticamente com base em parâmetros definidos.
+
+* ### Controle de ventilação:
+
+    Gerenciamento automático ou manual dos sistemas de ventilação.
